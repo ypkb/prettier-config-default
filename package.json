@@ -12,9 +12,17 @@
     "code-style",
     "formatting"
   ],
-  "author": "Your Name",
+  "author": "ypkb",
   "license": "MIT",
   "peerDependencies": {
     "prettier": ">=2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypkb/prettier-config-default.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ypkb/prettier-config-default/issues"
+  },
+  "homepage": "https://github.com/ypkb/prettier-config-default#readme"
 }
