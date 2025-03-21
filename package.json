@@ -1,0 +1,20 @@
+{
+  "name": "prettier-config-default",
+  "version": "1.0.1",
+  "description": "My default Prettier configuration for quick project setup",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "code-style",
+    "formatting"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">=2.0.0"
+  }
+}
