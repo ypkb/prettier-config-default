@@ -140,7 +140,7 @@ npm install --save-dev husky lint-staged
 - `bracketSpacing`: true - 对象字面量中的括号前后打印空格
 - `bracketSameLine`: false - 多行 HTML 元素的 `>` 放在最后一行的末尾
 - `arrowParens`: 'always' - 箭头函数始终包含圆括号
-- `semi`: true - 语句末尾使用分号
+- `semi`: false - 语句末尾不使用分号
 - `tabWidth`: 2 - 缩进使用 2 个空格
 - `useTabs`: false - 使用空格而不是制表符缩进
 - 更多配置详见代码...
